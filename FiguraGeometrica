@@ -1,0 +1,5 @@
+public abstract class FiguraGeometrica {
+    // Métodos comunes
+    public abstract double calcularArea();
+    public abstract double calcularPerimetro();
+}
